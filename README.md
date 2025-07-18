@@ -38,4 +38,13 @@
 
 ---
 
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deepak-stack18&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 📌 _“Consistency is the key to mastery. Let’s build daily.”_
