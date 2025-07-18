@@ -44,10 +44,14 @@
 
 ---
 
+---
+
 ### 📈 LeetCode Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak_G_05&domain=leetcode&theme=radical" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Deepak_G_05?ext=heatmap&theme=unicorn" alt="LeetCode Stats" />
 </p>
+
 
 ### 🔥 GitHub Streak
 
