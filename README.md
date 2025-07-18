@@ -25,6 +25,19 @@
 
 ---
 
+---
+
+### 📈 LeetCode Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak_G_05&domain=leetcode&theme=radical" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/badge/lc/Deepak_G_05?theme=radical" alt="LeetCode Badge" />
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-stack18&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-stack18&layout=compact&theme=dark)
