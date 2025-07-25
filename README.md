@@ -53,7 +53,11 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepak-stack18&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
+## 🔥 My GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepak-stack18&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+> 🛠️ *Daily grind towards mastery – Coding never stops!*
 
 
 📌 _“Consistency is the key to mastery. Let’s build daily.”_
